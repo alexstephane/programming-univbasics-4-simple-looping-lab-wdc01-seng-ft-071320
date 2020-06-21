@@ -14,3 +14,11 @@ def loop_message_n_times(message, limit)
     count += 1
   end
 end
+
+def method_name(parameter)
+  count = 0
+  while count < (something)
+    # do something with the parameter
+    count += 1
+  end
+end
